@@ -14,11 +14,13 @@ CXXLNKS=
 
 
 # head files in ./include/
-INCFILES=
+INCFILES=mlog.h \
+		 string_util.h
 
 
 # source files in ./src/
-SRCFILES=
+SRCFILES=mlog.cpp \
+		 string_util.cpp
 
 
 #booking_management.cpp
