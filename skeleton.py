@@ -4,8 +4,8 @@
 
 ###########################################  
 # File Name     : file.py
-# Author        : liqibo(liqibo@baidu.com)
-# Created Time  : 2017/7/10
+# Author        : liqibo(qibolee@163.com)
+# Created Time  : 2017/9/10
 # Brief         : static
 ###########################################
 

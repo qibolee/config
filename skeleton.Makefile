@@ -1,3 +1,4 @@
+# subdir
 INC=./include
 OUT=./out
 SRC=./src

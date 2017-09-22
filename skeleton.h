@@ -1,5 +1,5 @@
-#ifndef xx
-#define xx
+#ifndef _XX_
+#define _XX_
 
 
 class xx {
@@ -13,5 +13,7 @@ private:
 
 
 
-#endif //xx
+#endif //_XX_
+
+
 
